@@ -1,4 +1,4 @@
-
+## Función para determinar si un número es primo o no
 
 def es_primo(numero): 
     if numero == 1: 
